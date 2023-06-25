@@ -1,7 +1,6 @@
 ![logo](https://github.com/amit9908/amit9908/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Amit Kumar Choudhary</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
-
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit9908&label=Profile%20views&color=0e75b6&style=flat" alt="amit9908" /> </p>
@@ -9,6 +8,8 @@
 - 🌱 I’m currently learning **data structures and algorithms and frontend frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amit9908?tab=repositories](https://github.com/amit9908?tab=repositories)
+
+- 📝 I regularly code on [https://leetcode.com/AmitKr589/](https://leetcode.com/AmitKr589/)
 
 - 📫 How to reach me **ak2512099@gmail.com**
 
@@ -18,8 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-kumar-choudhary-142759277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-kumar-choudhary-142759277" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/amitkr589/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/amitkr589/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amit-kumar-choudhary-142759277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-kumar-choudhary-142759277" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ak2512099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ak2512099" height="30" width="40" /></a>
 </p>
 
@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit9908&show_icons=true&locale=en" alt="amit9908" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit9908&" alt="amit9908" /></p>
+
+
